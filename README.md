@@ -1,4 +1,4 @@
 # projects
 projects
 
-Welcome, in this Projects repository, I will list some of the projects I have developed:
+Welcome, in this repository, I will list some of the projects that I have developed:
