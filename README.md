@@ -1,14 +1,14 @@
 # MILSONDEV PROJECTS
 
 ## Welcome, in this repository, I will list some projects that I have developed:
--	Monitoring of Temperature and Humidity (IoT)
--	Cinemofruitshop
--	Anagram
--	Tbagroup
--	Cobranca
--	Eventmanagement
--	Game-pacman
--	Dijkstra
+1.	Monitoring of Temperature and Humidity (IoT)
+2.	Cinemofruitshop
+3.	Anagram
+4.	Tbagroup
+5.	Cobranca
+6.	Eventmanagement
+7.	Game-pacman
+8.	Dijkstra
 
 Monitoring of Temperature and Humidity (IoT)
 It is a project, whose objective is to monitor the environmental variables Temperature and Humidity, built with the following components:
