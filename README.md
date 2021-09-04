@@ -10,7 +10,7 @@
 -	Game-pacman
 -	Dijkstra
 
-### __[Monitoring of Temperature and Humidity (IoT)]__(http://google.com)
+[### __Monitoring of Temperature and Humidity (IoT)__](http://google.com)
 It is a project, whose objective is to monitor the environmental variables Temperature and Humidity, built with the following components:
   1. ESP8266 Microcontroller
   2. DHT11 Temperature and Humidity Sensor
