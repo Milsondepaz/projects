@@ -19,7 +19,7 @@ It is a project, whose objective is to monitor the environmental variables Tempe
  
 The Hardware part performs the service of reading the environmental data and makes it available on the Think to Speak Platform so that later A REST API application, built in Java, accesses this data and saves it in a database, as needed, and also provides more services for other web clients or mobile app.
 
-[Go to repository...](https://github.com/Milsondepaz/temperaturehumiditymonitoring) or
+[Go to repository...](https://github.com/Milsondepaz/temperaturehumiditymonitoring)
 
 Watch the video.
 
